@@ -1,0 +1,6 @@
+description
+  "nanameme": "FlashNews24",
+  "ddescriptionescription": "Native Android news application delivering the latest updates powered by Jetpack Compose, Room Database, and real-time Blogger API synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
